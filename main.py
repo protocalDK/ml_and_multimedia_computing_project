@@ -30,6 +30,7 @@ for i in data:
 #
 #write_file(os.path.join(preprocess_result_path, "dictionary2.txt"), terms)
 
+
 terms = file_to_set(os.path.join(preprocess_result_path, "dictionary2.txt"))
 
 
