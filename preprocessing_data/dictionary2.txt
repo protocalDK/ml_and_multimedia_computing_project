@@ -1,387 +1,3 @@
-100000aday
-10000th
-1000pound
-1000pump
-100meter
-100mile
-100story
-100th
-100year
-100yearold
-103yearold
-10minute
-10monthold
-10pack
-10piece
-10pound
-10sided
-10step
-10story
-10th
-10thgrade
-10year
-10yearold
-112th
-113th
-117aerocar
-11th
-11yearold
-11yearolds
-120year
-12th
-12yearold
-12yearolds
-13000yearold
-134yearold
-13hour
-13yearold
-1433pound
-14day
-14month
-14ounce
-14th
-14word
-14year
-14yearold
-155th
-1580s
-15by20foot
-15coat
-15minute
-15second
-15straight
-15th
-15week
-15yearold
-16m
-16th
-16yearold
-17hour
-17minute
-17th
-17thcentury
-17thdegree
-17year
-17yearold
-17yearolds
-1800eatshit
-1850s
-18hour
-18th
-18thcentury
-18to24yearolds
-18to35
-18to36yearold
-18yearold
-18yearoldme
-1930s
-1950s
-1960s
-1980s
-19inch
-19th
-1click
-1in2
-1squareinch
-1st
-2000peso
-2000s
-2000yearold
-200k
-200page
-200pound
-200th
-200timesbaked
-2014s
-2015s
-2016s
-20minute
-20page
-20piece
-20pound
-20s
-20second
-20something
-20somethings
-20th
-20week
-20year
-20yearold
-21gun
-21st
-21stcentury
-21yearold
-22m
-22nd
-22yearold
-230year
-239hour
-23andme
-23hour
-23monthold
-23yearold
-240000th
-2400mile
-24hour
-24piece
-24yearold
-250pound
-25foottall
-25pound
-25year
-25yearold
-25yearolds
-26th
-26yearold
-26yearolds
-27yearold
-28game
-28pinemartenaday
-28yearold
-29december
-29yearold
-29yearolds
-2d
-2day
-2gigabyte
-2hour
-2k16
-2minute
-2month
-2nd
-2s
-2to1
-2way
-2week
-2wide
-2year
-2yearold
-300000foottall
-3000spideregg
-3000yard
-300pound
-300th
-300year
-30millionyearold
-30minute
-30s
-30somethings
-30th
-30yard
-30year
-30yearold
-31st
-31yearold
-32000hourlong
-32m
-32minute
-32yearold
-33yearold
-34th
-34yearold
-3500yearold
-350th
-35th
-35to44yearold
-36000foottall
-360degree
-37day
-37th
-37yearold
-38c
-38piece
-38yearold
-38yearolds
-393rd
-398monthold
-3cheese
-3d
-3day
-3dprinted
-3drug
-3foottall
-3hour
-3hourlong
-3inch
-3m
-3minute
-3month
-3note
-3part
-3piece
-3po
-3pointers
-3rd
-3rdgrade
-3rdworld
-3ring
-3star
-3state
-3time
-3weekold
-3year
-3yearold
-40000foot
-4000pound
-400th
-401k
-40day
-40disc
-40foot
-40gigabite
-40hour
-40monthlong
-40th
-40year
-40yearold
-41cent
-43rd
-43yearold
-44th
-44yearold
-450pound
-45minute
-45second
-45th
-45yearold
-4613th
-4731st
-47second
-49ers
-49yearold
-4beer
-4foottall
-4h
-4minute
-4monthold
-4se
-4th
-4thlargest
-4way
-4year
-4yearold
-4yearolds
-5000acre
-5000ahead
-500disc
-500million
-500yearold
-50page
-50s
-50sthemed
-50year
-50yearold
-52year
-52yearold
-53inch
-560pound
-56yearold
-576piece
-594foothigh
-5d
-5hour
-5k
-5mile
-5millioncar
-5minute
-5pound
-5s
-5th
-5thgrade
-5year
-5yearold
-6000mile
-6000yearold
-600pound
-60day
-60th
-60year
-60yearold
-60yearolds
-612th
-65to80
-65yearold
-66yearold
-6day
-6daylong
-6figure
-6footlong
-6lane
-6minute
-6month
-6piece
-6sentence
-6th
-6thgrade
-6x60
-6yearold
-70s
-70th
-70yearold
-71st
-72inch
-72nd
-72yearold
-75cent
-75mile
-75th
-75year
-76er
-76ers
-77th
-77yearold
-79yearold
-7day
-7eleven
-7hour
-7season
-7story
-7th
-7yearold
-80s
-81yearold
-83rd
-83yearold
-84yearold
-85000th
-85pound
-85yearold
-86yearold
-87th
-87yearold
-88million
-8bit
-8minute
-8month
-8monthold
-8ounce
-8second
-8th
-8thgraders
-8x10
-8yearold
-8yearolds
-90day
-90s
-90th
-90yearold
-910ths
-91yearold
-92grain
-92nd
-92yearold
-93yearold
-94th
-95yearold
-96foot
-96yearold
-99cent
-9mm
-9month
-9pound
-9yearold
-9yearolds
-a1
 aa
 aaron
 aarp
@@ -481,6 +97,7 @@ acut
 ad
 adam
 adapt
+aday
 addcandytoamovy
 addclimatechangetotv
 adderal
@@ -531,6 +148,7 @@ aeg
 aer
 aereo
 aerob
+aeroc
 aerosmi
 aerosol
 aetn
@@ -838,6 +456,7 @@ anct
 and
 anderson
 andho
+andm
 andr
 andre
 andrea
@@ -913,7 +532,7 @@ antidrug
 antif
 antifatty
 antiflood
-antig20
+antig
 antigay
 antigmo
 antigovern
@@ -1021,8 +640,6 @@ aqu
 aquam
 aquar
 ar
-ar15
-ar15s
 ara
 arab
 arabam
@@ -2390,6 +2007,7 @@ buzzword
 byblo
 bye
 byer
+byfoot
 bylaw
 bypass
 byproduc
@@ -2399,7 +2017,6 @@ byron
 bystand
 bywom
 c
-c3pos
 ca
 cab
 cabaret
@@ -3090,7 +2707,6 @@ cnncnn
 cnncom
 cnns
 co
-co2
 coach
 coachell
 coachellago
@@ -3376,8 +2992,6 @@ coopt
 coordin
 coown
 cop
-cop20
-cop21
 copeland
 copenh
 coppol
@@ -3506,6 +3120,7 @@ coyot
 coziest
 cozy
 cpac
+cpo
 cpu
 cr
 crab
@@ -3739,7 +3354,6 @@ cyr
 cyst
 czar
 czech
-d23s
 da
 dac
 daca
@@ -4211,6 +3825,7 @@ disavow
 disband
 disbeliev
 disburs
+disc
 discard
 discern
 discharg
@@ -4437,6 +4052,7 @@ downtoear
 downton
 downtown
 doz
+dprinted
 dr
 dracon
 dracul
@@ -4515,6 +4131,7 @@ drunkdr
 dry
 dryc
 drywal
+ds
 dsl
 dslr
 dtent
@@ -4614,10 +4231,9 @@ dystop
 dzhokar
 dzhokhar
 e
-e3
 eag
 eagl
-eagle_warrior_1776
+eagle_warrior_
 ear
 earbud
 earhart
@@ -4650,6 +4266,7 @@ easytear
 easytotackl
 eat
 eatingdisord
+eatshit
 eav
 eavesdrop
 ebay
@@ -4687,7 +4304,7 @@ edm
 edtech
 educ
 edward
-edwards2016com
+edwardscom
 ee
 eel
 eery
@@ -4711,31 +4328,8 @@ eid
 eiffel
 eigh
 eight
-eight hundred
-eight hundred and eleven
-eight hundred and ninety-three thousand
-eight hundred and seventy
-eight hundred and thirty-five
-eight hundred and twelve thousand, six hundred and eighty-three
-eight thousand
-eighteen
-eighteen thousand
 eighthgrad
 eighty
-eighty thousand
-eighty-eight
-eighty-eight thousand
-eighty-five
-eighty-five thousand
-eighty-four
-eighty-four thousand
-eighty-nine
-eighty-one
-eighty-one thousand, four hundred and ninety-six
-eighty-seven
-eighty-six
-eighty-three
-eighty-two
 eightyearold
 eileen
 einstein
@@ -4764,7 +4358,6 @@ eleg
 elen
 eleph
 elev
-eleven thousand, seven hundred and seventeen
 elevenyearold
 elf
 elfm
@@ -4929,7 +4522,6 @@ enzym
 enzymebas
 eon
 ep
-ep9
 epa
 epcot
 epid
@@ -5124,7 +4716,7 @@ expery
 expir
 expl
 explain
-explainthe90sin4words
+explainthesinword
 explet
 explicit
 explod
@@ -5181,7 +4773,6 @@ eyewhit
 eyou
 ezel
 f
-f150
 faa
 faad
 fab
@@ -5415,23 +5006,9 @@ fierc
 fiercest
 fiery
 fif
-fifteen
-fifteen thousand
 fifthgrad
 fifthofasecond
 fifty
-fifty thousand
-fifty-eight
-fifty-five
-fifty-five thousand
-fifty-four
-fifty-nine
-fifty-one
-fifty-seven
-fifty-seven thousand
-fifty-six
-fifty-three
-fifty-two
 fig
 fight
 figurin
@@ -5514,20 +5091,6 @@ fitnessmind
 fitzgerald
 fitzpatrick
 fiv
-five hundred
-five hundred and eighty-fiv
-five hundred and fifty thousand
-five hundred and on
-five hundred and ten
-five hundred and thirty
-five hundred and thirty-fiv
-five hundred and thirty-nin
-five hundred and thirty-two
-five hundred and twenty-fiv
-five hundred and twenty-five thousand
-five hundred thousand
-five thousand
-five thousand, six hundred
 fivealarm
 fivedecad
 fivepound
@@ -5672,10 +5235,12 @@ foot
 footbal
 footballlov
 footballnah
+foothigh
 footlong
 footnot
 footprint
 footstep
+foottal
 footwear
 footwid
 footy
@@ -5717,22 +5282,6 @@ forrest
 fort
 fortress
 fortun
-forty
-forty thousand
-forty-eight
-forty-eight thousand, seven hundred and twenty
-forty-five
-forty-five thousand
-forty-four
-forty-nine
-forty-one
-forty-one thousand, seven hundred and sixty-seven
-forty-seven
-forty-seven thousand
-forty-six
-forty-three
-forty-two
-forty-two thousand
 forward
 forwom
 fossil
@@ -5743,28 +5292,11 @@ found
 foundart
 fountain
 four
-four hundred
-four hundred and fifty
-four hundred and fifty-one
-four hundred and forty-fo
-four hundred and forty-nine
-four hundred and ninety-three
-four hundred and one
-four hundred and seventy-five
-four hundred and sixty
-four hundred and twenty
-four hundred and twenty-one
-four hundred and twenty-seven
-four hundred thousand
-four thousand
-four thousand, nine hundred and ninety-nine
 fourbedroom
 fourday
 fourleg
 fourplay
 fourpound
-fourteen
-fourteen thousand
 fourthgrad
 fouryear
 fox
@@ -5885,7 +5417,7 @@ frosty
 frothmouth
 frown
 frozenthem
-frpxk5jeoc4ne5dn
+frpxkjeocnedn
 frug
 fruit
 fruitv
@@ -5959,10 +5491,6 @@ fyi
 fyoudg
 fyr
 g
-g20
-g41
-g7
-g8
 gab
 gabban
 gabby
@@ -6148,6 +5676,8 @@ gifford
 gift
 giftsf
 gig
+gigabit
+gigabyt
 gigawat
 giggl
 gigglingateveryth
@@ -6790,7 +6320,6 @@ hazmatsuit
 hazy
 hazzard
 hb
-hb2
 hbcu
 hbcus
 hbo
@@ -7194,7 +6723,7 @@ hpps
 hpv
 hq
 hr
-hscc2015
+hscc
 hsn
 huang
 hub
@@ -7286,7 +6815,6 @@ hyslop
 hyst
 hysterectom
 hyunda
-i90
 ia
 iamthegoldenstatekillercom
 ian
@@ -7681,7 +7209,7 @@ ip
 ipad
 ipecac
 iphon
-iphonefeatures4politician
+iphonefeaturespolit
 ipod
 ir
 iracem
@@ -8003,7 +7531,6 @@ juxtapos
 jwoww
 jyoth
 k
-k2
 kab
 kabatzin
 kacy
@@ -8890,7 +8417,6 @@ lyr
 lyricsdoc
 lyt
 lyudsk
-m4m
 maasa
 mac
 macaren
@@ -9265,7 +8791,6 @@ mear
 meas
 measl
 meat
-meat14
 meatbal
 meathead
 meatless
@@ -9416,7 +8941,7 @@ mexicanthem
 mexico
 mey
 mgm
-mh370
+mh
 mia
 miam
 miamibas
@@ -9445,8 +8970,7 @@ microst
 microwav
 microwavepopcorn
 microwaveresist
-mid80s
-mid90s
+mid
 mida
 midair
 midconcert
@@ -9488,7 +9012,6 @@ mighty
 migr
 migrain
 mik
-mike4763
 mikhail
 mil
 milano
@@ -9513,8 +9036,10 @@ millen
 millenn
 million
 millionair
+millionc
 milliondoll
 millionsmarchsf
+millionyearold
 milo
 milosev
 milton
@@ -9607,7 +9132,7 @@ missour
 misspeak
 misspel
 misspok
-missuniverse2015
+missunivers
 mist
 mistak
 mistress
@@ -9720,6 +9245,7 @@ montei
 monteith
 month
 monthlong
+monthold
 monu
 mooc
 mooch
@@ -9805,7 +9331,6 @@ mozamb
 mozart
 mozzarell
 mp
-mp3
 mpa
 mph
 mr
@@ -9814,7 +9339,6 @@ mre
 mrquez
 mrs
 ms
-ms804
 msf
 msnbc
 mt
@@ -10021,6 +9545,7 @@ nc
 nca
 nci
 ncnoltes
+nd
 nda
 nea
 neal
@@ -10047,7 +9572,6 @@ needleexchang
 needleswap
 needy
 neg
-negative220
 neglect
 neglig
 negoty
@@ -10187,31 +9711,9 @@ nill
 nimoy
 nimrud
 nin
-nine hundred
-nine hundred and eighteen
-nine hundred and eleven
-nine hundred and forty-eight
-nine hundred and ninety-nin
-nine hundred and ten
-nine thousand
-nine thousand, five hundred and ninety-six
 ninehundredpound
 nineinch
 ninemonthold
-nineteen
-nineteen million, eight hundred and thirty-nine thousand, nine hundred and forty-sev
-nineteen million, three hundred and ninety-one thousand, nine hundred and forty
-ninety thousand
-ninety-eight
-ninety-five
-ninety-four
-ninety-four thousand, five hundred and twenty-three
-ninety-nine
-ninety-one
-ninety-seven
-ninety-six
-ninety-three
-ninety-two
 ninetysometh
 ninj
 ninjalik
@@ -10379,7 +9881,7 @@ nratv
 nsa
 nsfw
 nsndcdwf
-nspw2017
+nspw
 nsynt
 nu
 nuant
@@ -10588,113 +10090,6 @@ onceloy
 onceostrac
 oncolog
 ondemand
-one hundred
-one hundred and eight
-one hundred and eighteen
-one hundred and eighty
-one hundred and eighty thousand
-one hundred and eighty-six
-one hundred and fifteen
-one hundred and fifty
-one hundred and fifty thousand
-one hundred and fifty-seven
-one hundred and fifty-six
-one hundred and fiv
-one hundred and forty
-one hundred and forty-fiv
-one hundred and forty-on
-one hundred and forty-seven
-one hundred and forty-six
-one hundred and forty-two
-one hundred and four
-one hundred and fourteen
-one hundred and fourteen thousand
-one hundred and nin
-one hundred and ninety-four
-one hundred and ninety-three quadrillion, one hundred and fifteen million
-one hundred and seven
-one hundred and seventeen
-one hundred and seventy
-one hundred and seventy-fiv
-one hundred and six
-one hundred and sixteen
-one hundred and sixty
-one hundred and sixty thousand
-one hundred and sixty-fiv
-one hundred and ten
-one hundred and thirteen
-one hundred and thirty thousand
-one hundred and thirty-eight
-one hundred and thirty-seven
-one hundred and thr
-one hundred and twelv
-one hundred and twenty
-one hundred and twenty thousand
-one hundred and twenty-fiv
-one hundred and twenty-on
-one hundred and two
-one hundred thousand
-one million
-one million, ten thousand, nine hundred and eleven
-one thousand
-one thousand and fifteen
-one thousand and twenty-fiv
-one thousand, eight hundred
-one thousand, eight hundred and ninety-thr
-one thousand, eight hundred and sixty-on
-one thousand, eight hundred and thirty-four
-one thousand, eight hundred and twenty-two
-one thousand, five hundred
-one thousand, five hundred and twenty-on
-one thousand, four hundred
-one thousand, nine hundred
-one thousand, nine hundred and eighty
-one thousand, nine hundred and eighty-eight
-one thousand, nine hundred and eighty-four
-one thousand, nine hundred and eighty-nin
-one thousand, nine hundred and eighty-on
-one thousand, nine hundred and eighty-seven
-one thousand, nine hundred and eighty-six
-one thousand, nine hundred and eighty-thr
-one thousand, nine hundred and eighty-two
-one thousand, nine hundred and fifteen
-one thousand, nine hundred and forty-eight
-one thousand, nine hundred and forty-fiv
-one thousand, nine hundred and fourteen
-one thousand, nine hundred and nineteen
-one thousand, nine hundred and ninety
-one thousand, nine hundred and ninety-eight
-one thousand, nine hundred and ninety-fiv
-one thousand, nine hundred and ninety-four
-one thousand, nine hundred and ninety-nin
-one thousand, nine hundred and ninety-on
-one thousand, nine hundred and ninety-seven
-one thousand, nine hundred and ninety-six
-one thousand, nine hundred and ninety-thr
-one thousand, nine hundred and ninety-two
-one thousand, nine hundred and seventy
-one thousand, nine hundred and seventy-on
-one thousand, nine hundred and seventy-thr
-one thousand, nine hundred and seventy-two
-one thousand, nine hundred and sixty-four
-one thousand, nine hundred and sixty-nin
-one thousand, nine hundred and sixty-seven
-one thousand, nine hundred and sixty-thr
-one thousand, nine hundred and thirteen
-one thousand, nine hundred and thirty-nin
-one thousand, nine hundred and thirty-seven
-one thousand, nine hundred and twenty-eight
-one thousand, nine hundred and twenty-seven
-one thousand, seven hundred and forty-thr
-one thousand, seven hundred and seventy-six
-one thousand, six hundred and twelv
-one thousand, three hundred
-one thousand, three hundred and fifty-on
-one thousand, two hundred
-one thousand, two hundred and eighteen
-one thousand, two hundred and thirty-seven
-one thousand, two hundred and twenty
-one thousand, two hundred and twenty-four
 oneamon
 onebedroom
 onedayon
@@ -10713,7 +10108,7 @@ oneword
 oneyear
 oneyearold
 ongo
-onionman77
+onionm
 onlin
 onlook
 ono
@@ -10950,7 +10345,6 @@ ozthem
 ozzfest
 ozzy
 p
-p51
 pa
 pabst
 pac
@@ -11269,6 +10663,7 @@ peru
 peruv
 pervert
 peshaw
+peso
 pessim
 pest
 pesticid
@@ -11388,6 +10783,7 @@ pinch
 pinchuk
 pineappl
 pineappleshap
+pinemartenaday
 ping
 pingpong
 pinhead
@@ -11625,7 +11021,6 @@ posit
 poss
 possess
 post
-post911
 postbaby
 postballet
 postberny
@@ -11703,7 +11098,7 @@ prat
 prawn
 pray
 prayforpaulgeorg
-pre2008
+pre
 preach
 preak
 preambl
@@ -11933,7 +11328,6 @@ proxy
 pruit
 pry
 ps
-ps4
 psa
 psalm
 pseudonym
@@ -12208,6 +11602,9 @@ rbgformerrickgarland
 rbgs
 rc
 rca
+rd
+rdgrade
+rdworld
 reabsorb
 reach
 react
@@ -13306,7 +12703,6 @@ sengupta
 senil
 seniorc
 sens
-sense8
 senseless
 sensit
 sent
@@ -13347,28 +12743,9 @@ settl
 setup
 sev
 seven
-seven hundred
-seven hundred and fifty
-seven hundred and fifty thousand
-seven hundred and forty-sev
-seven hundred and twenty
-seven hundred thousand
 sevenfoottal
-seventeen
 seventhday
 seventhgrad
-seventy
-seventy thousand
-seventy-eight
-seventy-five
-seventy-four
-seventy-nine
-seventy-one
-seventy-seven
-seventy-six
-seventy-six thousand
-seventy-three
-seventy-two
 sevenyearold
 sever
 sevigny
@@ -13390,7 +12767,7 @@ seyfry
 seymo
 sf
 sfmoma
-sg1
+sg
 sgt
 shack
 shackl
@@ -13653,30 +13030,11 @@ sitin
 sittin
 situ
 six
-six hundred
-six hundred and fifty
-six hundred and fifty thousand
-six hundred and forty-three thousand, four hundred and fifty-seven
-six hundred and four
-six hundred thousand
-six thousand
-six thousand and seventy-five
-six thousand and seventy-one
-six thousand, four hundred and thirty-six
 sixho
 sixpack
-sixteen
 sixthannivers
 sixthgrad
 sixty
-sixty thousand
-sixty-eight
-sixty-five
-sixty-nine
-sixty-one
-sixty-six
-sixty-three
-sixty-two
 sixyear
 sixyearold
 siz
@@ -14061,6 +13419,7 @@ spic
 spicey
 spicy
 spid
+spidereg
 spiderm
 spiderwom
 spie
@@ -14147,6 +13506,7 @@ squad
 squadgo
 squalid
 squand
+squareinch
 squarep
 squash
 squat
@@ -14242,6 +13602,7 @@ stay
 stayathom
 stayinb
 staywokeandvot
+stcentury
 std
 ste
 steady
@@ -14282,6 +13643,7 @@ stewart
 stewarthan
 stewm
 stfu
+sthemed
 stick
 sticky
 stiff
@@ -14701,7 +14063,6 @@ syrupy
 system
 sza
 szep
-t1
 ta
 tab
 tabasco
@@ -14877,8 +14238,6 @@ tempt
 tempurap
 tempurp
 ten
-ten thousand
-ten thousand, five hundred and sixty-five
 tenac
 tend
 tendon
@@ -14922,6 +14281,7 @@ textbook
 textilemess
 tffs
 tgi
+th
 tha
 thailand
 thal
@@ -14932,6 +14292,8 @@ thanksg
 thankyou
 thatch
 thaw
+thcentury
+thdegree
 the
 theal
 theblaz
@@ -14961,6 +14323,8 @@ thermosens
 theron
 theroux
 thewrap
+thgrade
+thgraders
 thick
 thief
 thiel
@@ -14983,22 +14347,8 @@ thirst
 thirsty
 thirteen
 thirty
-thirty thousand
-thirty-eight
-thirty-five
-thirty-five thousand
-thirty-four
-thirty-four thousand
-thirty-nine
-thirty-one
-thirty-seven
-thirty-seven thousand
-thirty-seven thousand, three hundred and twenty-five
-thirty-six
-thirty-three
-thirty-three thousand, four hundred and eighty
-thirty-two
 thirtysometh
+thlargest
 thom
 thoma
 thompson
@@ -15019,26 +14369,6 @@ threat
 threaten
 threats
 three
-three hundred
-three hundred and fifty
-three hundred and fifty thousand
-three hundred and fifty-four
-three hundred and forty
-three hundred and forty-seven
-three hundred and fourteen
-three hundred and one
-three hundred and seventeen billion, six hundred and twenty-two million, three hundred and eighteen thousand and forty-seven
-three hundred and seventy-nine thousand
-three hundred and sixty
-three hundred and thirty
-three hundred and thirty-two
-three hundred and twenty
-three hundred and twenty-four
-three thousand
-three thousand, eight hundred and twenty-two
-three thousand, six hundred
-three thousand, six hundred and twenty-one
-three thousand, three hundred and thirty-five
 threealarm
 threeandahalfminute
 threeday
@@ -15069,6 +14399,7 @@ throwback
 thrower
 thrush
 thrust
+ths
 thu
 thug
 thumb
@@ -15113,6 +14444,7 @@ timelaps
 timeless
 timelin
 timeout
+timesbak
 timetravel
 timewarn
 timewast
@@ -15205,7 +14537,6 @@ toothbrush
 toothpast
 toothpick
 top
-top40
 topek
 toph
 topless
@@ -15250,6 +14581,7 @@ townsperson
 tox
 toxicwast
 toy
+toyearold
 toyot
 toyotathon
 tpp
@@ -15357,7 +14689,7 @@ tribut
 trick
 trickl
 trickort
-trickortreatin100years
+trickortreatinyear
 tricky
 tricorn
 tricyc
@@ -15504,22 +14836,7 @@ tweetless
 tweetstorm
 twelfthgrad
 twelv
-twelve thousand
 twenty
-twenty million, one hundred and forty-two thousand and fifteen
-twenty thousand
-twenty-eight
-twenty-five
-twenty-five thousand
-twenty-four
-twenty-nine
-twenty-one
-twenty-seven
-twenty-six
-twenty-three
-twenty-two
-twenty-two thousand
-twenty-two thousand, four hundred and fifty
 twentysometh
 twic
 twig
@@ -15533,74 +14850,6 @@ twitch
 twittervers
 twiztid
 two
-two hundred
-two hundred and eighty
-two hundred and fifty
-two hundred and fifty-eight thousand, one hundred and fifty-nine
-two hundred and fifty-nine
-two hundred and five thousand
-two hundred and forty-nine
-two hundred and fourteen
-two hundred and ninety thousand
-two hundred and ninety-nine
-two hundred and ninety-seven
-two hundred and one
-two hundred and seventy
-two hundred and seventy thousand
-two hundred and seventy-nine
-two hundred and sixty
-two hundred and sixty-four
-two hundred and thirty
-two hundred and thirty-nine
-two hundred and twenty
-two hundred and twenty-four
-two hundred and twenty-six
-two hundred thousand
-two thousand
-two thousand and eight
-two thousand and eighteen
-two thousand and eighty-five
-two thousand and eleven
-two thousand and fifteen
-two thousand and fifty
-two thousand and five
-two thousand and forty
-two thousand and forty-nine
-two thousand and forty-three
-two thousand and four
-two thousand and fourteen
-two thousand and nine
-two thousand and nineteen
-two thousand and one
-two thousand and seventeen
-two thousand and seventy
-two thousand and six
-two thousand and sixteen
-two thousand and sixty
-two thousand and sixty-five
-two thousand and ten
-two thousand and thirteen
-two thousand and thirty
-two thousand and thirty-seven
-two thousand and thirty-six
-two thousand and thirty-two
-two thousand and three
-two thousand and twelve
-two thousand and twenty
-two thousand and twenty-eight
-two thousand and twenty-five
-two thousand and twenty-four
-two thousand and twenty-one
-two thousand and twenty-seven
-two thousand and twenty-six
-two thousand and twenty-two
-two thousand and two
-two thousand, five hundred and twenty-five
-two thousand, one hundred and fifty
-two thousand, one hundred and ninety-nine
-two thousand, six hundred
-two thousand, six hundred and fifty-one
-two thousand, three hundred
 twocasset
 twof
 twoforon
@@ -15624,7 +14873,6 @@ tyk
 tyl
 tylenol
 typ
-type2
 typecast
 typefac
 typhoon
@@ -15634,7 +14882,7 @@ tyr
 tyran
 tyres
 tyson
-u2
+u
 ua
 uaw
 ub
@@ -15743,7 +14991,6 @@ uncov
 und
 undecid
 under
-under70
 undercov
 undercur
 undercut
@@ -16139,7 +15386,7 @@ vet
 veterin
 veto
 vfw
-vh1
+vh
 vi
 via
 viabl
@@ -16247,7 +15494,6 @@ vouch
 vow
 vowel
 voy
-voyager1
 vp
 vr
 vrckovnik
@@ -16803,7 +16049,7 @@ wouldream
 wouldrug
 wouldruggy
 wouldrunk
-wouldsm5
+wouldsm
 woulduk
 wouldul
 wouldumb
@@ -16913,6 +16159,8 @@ yearbook
 yearend
 yearlong
 yearn
+yearold
+yearoldm
 yearround
 yearslong
 yearson
