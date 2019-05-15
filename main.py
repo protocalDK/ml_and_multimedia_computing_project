@@ -22,6 +22,7 @@ for i in data:
 
 #print("Getting term...")
 #terms = set()
+
 #for headline in headlines:
 #    term = get_terms(headline, remove_digit=True)
 #    terms.update(term)
@@ -30,6 +31,7 @@ for i in data:
 #write_file(os.path.join(preprocess_result_path, "dictionary2.txt"), terms)
 
 terms = file_to_set(os.path.join(preprocess_result_path, "dictionary2.txt"))
+
 
 print("Making boolean model...")
 for i in range(len(headlines)):
@@ -42,6 +44,7 @@ for i in range(len(headlines)):
     example.append(labels[i])
 
     with open(os.path.join(preprocess_result_path, "dataset2.csv"), "a+") as f:
+
     #with open(os.path.join(preprocess_result_path, "dataset.txt"), "a+") as f:
         f.write(str(example)+"\n")
 
