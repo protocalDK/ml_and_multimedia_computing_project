@@ -53,5 +53,4 @@ for headline in headlines:
     print(len(corpus))
 
 print("Building vector space model...")
-
 data = helpers.compute_weight(corpus)

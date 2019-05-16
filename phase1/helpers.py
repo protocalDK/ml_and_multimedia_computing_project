@@ -1,6 +1,6 @@
 import math
 from collections import defaultdict
-
+import copy
 
 def compute_idf(corpus):
     num_docs = len(corpus)
@@ -15,7 +15,7 @@ def compute_idf(corpus):
 
 
 def compute_tf(corpus):
-    tf = corpus.copy()
+    tf = copy.deepcopy(corpus)
     for doc in tf:
         for word, value in doc.items():
             doc[word] = value / len(doc)
@@ -26,26 +26,12 @@ def compute_tf(corpus):
 def compute_weight(corpus):
     idf = compute_idf(corpus)
     tf = compute_tf(corpus)
-
     weight = list()
     for doc in tf:
+        weight_ = list()
         for term in idf.keys():
-            weight_ = list()
             weight_.append(doc[term] * idf[term] if term in doc.keys() else 0)
-
         weight.append(weight_)
-        
+        #print(len(weight))
+
     return weight
-
-
-
-
-idf = compute_idf(corpus)
-tf = compute_tf(corpus)
-for doc in tf:
-    for term in idf.keys():
-        if term in doc.keys():
-            print("a")
-        else:
-            print("b")
-
