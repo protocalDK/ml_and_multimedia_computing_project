@@ -32,6 +32,6 @@ def compute_weight(corpus):
         for term in idf.keys():
             weight_.append(doc[term] * idf[term] if term in doc.keys() else 0)
         weight.append(weight_)
-        #print(len(weight))
+        print(len(weight))
 
     return weight

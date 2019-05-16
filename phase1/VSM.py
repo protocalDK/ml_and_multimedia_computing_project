@@ -50,7 +50,11 @@ for headline in headlines:
     terms = tokenizing.get_terms(headline)
     bag_of_words = Counter(terms)
     corpus.append(bag_of_words)
-    print(len(corpus))
+    #print(len(corpus))
 
 print("Building vector space model...")
 data = helpers.compute_weight(corpus)
+
+
+np.save("data.npy", data)
+#array_reloaded = np.load('fnumpy.npy')
