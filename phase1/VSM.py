@@ -3,25 +3,29 @@ import sys
 from phase1 import general
 from phase1 import tokenizing
 from phase1 import helpers
+#import general
+#import tokenizing
+#import helpers
 from collections import Counter
 import numpy as np
+
 
 data_path = general.check_data_path("Sarcasm_Headlines_Dataset.json")
 preprocess_result_path = general.create_result_preprocessing()
 """ Đọc data trong file"""
 dataset = open(data_path)
-data = [eval(i) for i in dataset]
+text_data = [eval(i) for i in dataset]
 
 
 headlines = list()
 """ List chứa mỗi dòng headline trong 1 phần tử"""
-for i in data:
+for i in text_data:
     headlines.append(i["headline"])
 
 
 labels = list()
 """ List chứa label tương ứng của headlines"""
-for i in data:
+for i in text_data:
     labels.append(i["is_sarcastic"])
 
 
@@ -49,4 +53,5 @@ for headline in headlines:
     print(len(corpus))
 
 print("Building vector space model...")
-helpers.compute_weight(corpus)
+
+data = helpers.compute_weight(corpus)
