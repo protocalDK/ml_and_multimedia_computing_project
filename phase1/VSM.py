@@ -52,6 +52,7 @@ for i in range(0, len(traindata)):
 np.save("traindata.npy", traindata)
 #array_reloaded = np.load('traindata.npy')
 
+
 """ Xử lý dữ liệu cho testset"""
 
 """ Đọc data trong file"""
