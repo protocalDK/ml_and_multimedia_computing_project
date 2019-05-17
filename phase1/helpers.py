@@ -1,6 +1,8 @@
 import math
 from collections import defaultdict
 import copy
+import numpy as np
+
 
 def compute_idf(corpus):
     num_docs = len(corpus)
@@ -23,15 +25,16 @@ def compute_tf(corpus):
     return tf
 
 
-def compute_weight(corpus):
-    idf = compute_idf(corpus)
-    tf = compute_tf(corpus)
+def compute_weight(tf, idf):
     weight = list()
+ 
     for doc in tf:
         weight_ = list()
         for term in idf.keys():
             weight_.append(doc[term] * idf[term] if term in doc.keys() else 0)
         weight.append(weight_)
-        print(len(weight))
+        #print(len(weight))
+
 
     return weight
+#np.save("data.npy", data)
