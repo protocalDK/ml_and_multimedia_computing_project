@@ -21,13 +21,17 @@ def sigmoid(z):
 
 
 def costFunction(theta, X, y):
+
     """ number of training examples"""
+
     m = len(y)
 
     """ initial return values"""
+
     J = 0
 
     """ compute cost"""
+
     h = sigmoid(X.dot(theta))
     J = 1.0/m * ((-y).transpose().dot(np.log(h)) -
                  (1 - y).transpose().dot(np.log(1 - h)))
@@ -42,16 +46,21 @@ def costFunction(theta, X, y):
 
 
 def BGD(X, y, theta, alpha, num_iters=1000):
+
     """initial some values"""
+
     m = len(y)
     J_history = np.zeros((num_iters, 1))
 
     for iter in range(0, num_iters):
+
         """ perform a single gradient step on the parameter vector theta."""
+
         h = sigmoid(X.dot(theta))
         theta = theta - (alpha / m) * X.transpose().dot((h - y))
 
         """ save the cost J in every iteration"""
+        
         J_history[iter] = costFunction(theta, X, y)
         #print(iter)
 
@@ -63,15 +72,18 @@ def BGD(X, y, theta, alpha, num_iters=1000):
 """
 
 
-def predict(theta, X, threshold=0.5):
+def predict_handwrite(theta, X, threshold=0.5):
     """
         p = PREDICT(theta, X) computes the predictions for X using a threshold at 0.5 (default)
         (i.e., if sigmoid(theta'*x) >= threshold, predict 1)
-        """
+    """
+
     """ number of training examples"""
+
     m = X.shape[0]
 
-    """return values"""
+    """ return values"""
+
     p = np.zeros((m, 1))
 
     for i in range(0, m):
@@ -84,7 +96,7 @@ def predict(theta, X, threshold=0.5):
     return p
 
 
-def LogisticRegression(X_, Xtest_, y_, alpha, num_iters=1000, threshold=0.5):
+def LogisticRegression_handwrite(X_, Xtest_, y_, alpha, num_iters=1000, threshold=0.5):
     X = copy.deepcopy(X_)
     y = copy.deepcopy(y_)
     Xtest = copy.deepcopy(Xtest_)
@@ -92,25 +104,41 @@ def LogisticRegression(X_, Xtest_, y_, alpha, num_iters=1000, threshold=0.5):
     y = y.reshape((len(y), 1))
 
     """
-        Logistic Regression
+        setup the data matrix appropriately
+        and add ones for the intercept term
     """
+
     m, n = X.shape
     mtest = Xtest.shape[0]
 
-    """ Add column x0 to X and X_test"""
+    """ add intercept term to X"""
+
     X = np.hstack((np.ones((m, 1)), X))
     Xtest = np.hstack((np.ones((mtest, 1)), Xtest))
 
-    """ khởi tạo giá trị ban đầu cho theta"""
+    """ initialize fitting parameters"""
+
     initial_theta = np.zeros((n + 1, 1))
+
+    """ run BGD to obtain the optimal theta"""
+
     theta, cost = BGD(X, y, initial_theta, alpha=alpha, num_iters=num_iters)
 
-    p = predict(theta, Xtest, threshold=threshold)
+    """ get prediction on testset"""
+
+    p = predict_handwrite(theta, Xtest, threshold=threshold)
 
     return p, cost
 
 
-def LogisticRegression_sklearn():
+
+"""
+    logistic Regression using sklearn 
+"""
+
+def LogisticRegression_sklearn(X, Xtest, y):
     model = LogisticRegression(solver='saga')
-    model.fit(x_train, y_train)
-    _predict = LR.predict(x_test)
+    model.fit(X, y)
+    p = model.predict(Xtest)
+
+    return p

@@ -1,3 +1,5 @@
+from nltk.stem import LancasterStemmer, WordNetLemmatizer
+from nltk.corpus import stopwords
 import re
 import contractions
 import unicodedata
@@ -6,12 +8,14 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
-from nltk.corpus import stopwords
-from nltk.stem import LancasterStemmer, WordNetLemmatizer
+
+
+"""
+    remove punctuation (and number) in string of text
+"""
 
 
 def remove_punctuation(text, remove_digit=False):
-    """xóa dấu câu (và số nếu muốn)"""
     if remove_digit:
         pattern = r'[^a-zA-z\s]'
     else:
@@ -21,8 +25,12 @@ def remove_punctuation(text, remove_digit=False):
     return text
 
 
+"""
+    remove non-ASCII characters from list of tokenized words
+"""
+
+
 def remove_non_ascii(words):
-    """xóa các kí tự non_ASCII"""
     new_words = []
     for word in words:
         new_word = unicodedata.normalize('NFKD', word).encode(
@@ -31,8 +39,12 @@ def remove_non_ascii(words):
     return new_words
 
 
+"""
+    replace all interger occurrences in list of tokenized words with textual representation
+"""
+
+
 def replace_numbers(words):
-    """chuyển số nguyên từ dạng số sang dạng bằng chữ"""
     p = inflect.engine()
     new_words = []
     for word in words:
@@ -44,8 +56,12 @@ def replace_numbers(words):
     return new_words
 
 
+"""
+    remove stop words from list of tokenized words
+"""
+
+
 def remove_stopwords(words):
-    """xóa stopwords"""
     new_words = []
     for word in words:
         if word not in stopwords.words('english'):
@@ -53,8 +69,12 @@ def remove_stopwords(words):
     return new_words
 
 
+"""
+    stem words in list of tokenized words
+"""
+
+
 def stem_words(words):
-    """Stem words"""
     stemmer = LancasterStemmer()
     stems = []
     for word in words:
@@ -63,8 +83,12 @@ def stem_words(words):
     return stems
 
 
+"""
+    lemmatize verbs in list of tokenized words
+"""
+
+
 def lemmatize_verbs(words):
-    """Lemmatize verbs"""
     lemmatizer = WordNetLemmatizer()
     lemmas = []
     for word in words:
@@ -88,12 +112,18 @@ def preprocessing(terms, remove_non_ACSII=True, replace_num=True, lemmatize=True
 
 
 def get_terms(text, expand_contraction=True, remove_punc=True, remove_digit=False, remove_non_ACSII=True, replace_num=True, lemmatize=True, stemming=True):
+    """ convert all characters to lowercase in string of text"""
+    
     text = text.lower()
+
+    """ replace contractions in string of text"""
+
     if expand_contraction:
-        """ mở rộng các từ viết tắt """
         text = contractions.fix(text)
+
     if remove_punc:
         text = remove_punctuation(text, remove_digit=remove_digit)
+
     terms = nltk.word_tokenize(text)
     terms = preprocessing(terms, remove_non_ACSII=remove_non_ACSII,
                           replace_num=replace_num, lemmatize=lemmatize, stemming=stemming)

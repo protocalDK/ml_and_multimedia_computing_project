@@ -1,5 +1,9 @@
 from sklearn import metrics
 
+"""
+    calculate evaluation score for model
+"""
+
 
 def score(y, y_pred):
     accuracy = metrics.accuracy_score(y, y_pred)
